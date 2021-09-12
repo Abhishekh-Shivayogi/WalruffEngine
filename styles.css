@@ -1,0 +1,50 @@
+body{
+
+  background-color: black;
+}
+
+#canvas1{
+
+border: 2px solid blue;
+float: left;
+
+}
+
+#canvas2{
+
+border: 2px solid yellow;
+float: right;
+
+}
+
+#button1{
+
+  margin-top: 110px;
+
+}
+
+
+h1{
+
+  color: yellow;
+}
+
+.playerStats{
+  color: white;
+  border: 2px solid red;
+  width: 15vh;
+  height: 50vh;
+  margin-left: 90vh;
+}
+
+#playerRotationStat{
+  border: 1px solid green;
+}
+
+#blueLineLengthStat{
+  border: 1px solid blue;
+}
+
+#distanceFromPlayerLengthStat{
+  border: 1px solid yellow;
+}
